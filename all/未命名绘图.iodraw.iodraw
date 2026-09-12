@@ -37,7 +37,7 @@
           <mxGeometry x="470" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCD_bb8i2OBKBfnlHjiu-0" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.56pt; font-family: 宋体;&quot;&gt;微网当天的计划购电策略&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
